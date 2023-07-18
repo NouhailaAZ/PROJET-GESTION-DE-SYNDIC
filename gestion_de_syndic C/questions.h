@@ -1,0 +1,9 @@
+void personne_jamais_etre_syndic();
+void cotisation_app_annee();
+void appartement_pas_facture();
+void consommation_imm_ann();
+void per_a_plus_app();
+void app_a_plus_per();
+void syndic_de_plusieur_immmoble();
+void max_consommation_des_immeuble();
+void min_consommation_des_immeuble();

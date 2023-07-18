@@ -1,0 +1,9 @@
+void menu_immeuble();
+void menu_appartement();
+void menu_facture();
+void menu_syndic();
+void menu_Consommation();
+void menu_personne_app();
+void menu_Personne();
+void menu_Localisation();
+void menu_qst();
